@@ -48,7 +48,6 @@
       "required": false,
       "title": "Clash API Secret",
       "description": "Clash API authentication secret, leave empty to disable authentication",
-      "default": "set-your-secret",
       "placeholder": "Enter API secret"
     },
     {

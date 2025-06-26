@@ -1,6 +1,6 @@
 # Clash Verge Rev Changelog
 
-## [Initial Release] - 2025-01-23
+## [Initial Release] - {PR_MERGE_DATE}
 
 - Add proxy mode switching (Rule/Global/Direct)
 - Add proxy node selection with group support

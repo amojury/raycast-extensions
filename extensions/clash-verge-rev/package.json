@@ -13,18 +13,21 @@
     {
       "name": "switch-mode",
       "title": "Switch Proxy Mode",
+      "subtitle": "Clash Verge Rev",
       "description": "Switch between Clash proxy modes (Rule/Global/Direct)",
       "mode": "view"
     },
     {
       "name": "switch-proxy",
       "title": "Switch Proxy Node",
+      "subtitle": "Clash Verge Rev",
       "description": "Select and switch proxy nodes",
       "mode": "view"
     },
     {
       "name": "status",
       "title": "View Status",
+      "subtitle": "Clash Verge Rev",
       "description": "View current Clash status information",
       "mode": "view"
     }
